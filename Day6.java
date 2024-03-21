@@ -2,7 +2,7 @@ package java100DaysOfCoding;
 
 import java.util.Scanner;
 
-//#Day 4 - Coding Statement- 
+//#Day 6 - Coding Statement- 
 //Write a program to find ASCII values of a character
 
 
